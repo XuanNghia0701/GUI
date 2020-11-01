@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="Stylecss.css">
+
+
+</head>
+<body>
+
+	<nav>
+		<ul>
+			
+			<li><font size="24" color="white">           Welcome to Online Compiler</font></li>
+            
+
+		</ul>	
+	</nav>
+	<header>
+		
+		<div class="bg">
+			<div class="content">
+				<div class="kolom">
+            <ul><li><a href="">
+					<div class="atas">
+						<img src="1/img/Logo/devc.png">
+					</div>
+					<div class="tengah">
+						<a href="index.html"><h1> C/C++ </h1></a>
+					</div>
+					<div class="bawah"></div>
+				</div>
+            </a></li></ul>
+				<div class="kolom">
+			<ul><li><a href="">		
+					<div class="atas">
+						<img src="1/img/Logo/qq.png">
+					</div>
+					<div class="tengah">
+						<a href="index.html"><h1> Java </h1></a>
+					</div>
+					<div class="bawah"></div>
+				</div>
+			</a></li></ul>	
+				<div class="kolom">
+			<ul><li><a href="">		
+					<div class="atas">
+						<img src="1/img/Logo/python.png">
+					</div>
+					<div class="tengah">
+						<a href="index.html"><h1> Python </h1></a>
+					</div>
+					<div class="bawah"></div>
+				</div>
+			</a></li></ul>
+
+			</div>
+
+		</div>	
+	</header>
+	<footer>
+		
+	</footer>
+</body>
+</html>
