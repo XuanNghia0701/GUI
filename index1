@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+   	   <meta charset="UTF-8">
+   	   <title>Index</title>
+   	   <link rel="stylesheet" type="text/css" href="style.css">
+   </head>	
+   <body>
+   	   <div class="container">
+   	   	 
+   	   	   
+
+   	   	   <header>
+   	   	   	
+   	   	   	   <div class="bg">
+
+   	   	   	   	<ul>
+			
+			<li><font size="24" color="white">           Welcome to
+			 </font></li>
+			 <li><font size="24" color="white">          
+			 Online Compiler</font></li>
+			 <br></br>
+			 <br></br>
+			  <a href="index1.html">
+	        <li><font size="7" color="#f1c40f">         *** IDE
+			 </font></li>
+            </a>
+			 <br></br>
+			
+            <li><font size="24" color="#f1c40f">          * C/C++
+			 </font></li>
+			 <br></br>
+			 <li><font size="24" color="#f1c40f">          * Java
+			 </font></li>
+			 <br></br>
+			 <li><font size="24" color="#f1c40f">          * Python
+			 </font></li>
+
+		</ul>	
+   	   	   	   	<form action="">
+<label for="Files"></label>
+
+<input type="submit" value="Source files" >
+
+<input type="submit" value="Excute">
+
+<br></br>
+
+<textarea id="files" name="files" rows="35" cols="85" a>
+  
+  </textarea>
+  
+  
+</form>
+
+<form action="/action_page.php">
+<label for="Files"></label>
+<ul>
+			
+			<li><font size="6" color="white">           Result</font></li>
+            
+
+		</ul>	
+
+
+
+
+<textarea id="files" name="files" rows="35" cols="50" a>
+  
+  </textarea>
+  
+  
+</form>
+              
+   	   	   	   </div>
+   	   	   </header>
+   	   	  
+
+
+
+
+   </body>
+</html>
